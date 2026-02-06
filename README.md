@@ -1,15 +1,82 @@
-# 💫 About Me:
-# 👋 Hi, I’m TAJi AMINE<br><br>🚀 Full-Stack Developer | 🎮 Indie Game Creator | 🔧 IoT Explorer | 📊 Data Enthusiast<br><br>---<br><br>## 🧠 About Me<br><br>I'm a passionate developer with a diverse tech stack and a curious mind. I create across multiple domains — from building web apps and mobile apps, to crafting immersive games and tinkering with IoT hardware. Currently working on:<br><br>- 🛒 A **React + Node.js** full-stack e-commerce project with **SQL Server**  <br>- 🔍 *The Crimson Cipher*: A **crime-solving detective game** made in **Unreal Engine**, under my indie label **Vigilants Studio**<br>- 📡 IoT prototypes using **Raspberry Pi** + **RFID sensors**<br>- 📈 Data analysis & dashboards using **Excel**, **Power BI**, and **QlikView**<br><br>---<br><br>## 🛠️ Tech I Use<br><br>**Frontend**: React.js, Flutter, HTML/CSS, Tailwind, GSAP  <br>**Backend**: Node.js, Express.js, SQL Server, REST APIs  <br>**Game Dev**: Unreal Engine 5  <br>**Data Tools**: Python, Pandas, Excel (Advanced), Power BI, QlikView  <br>**IoT**: Raspberry Pi, RFID-RC522, GPIO scripting  <br>**Other**: Git/GitHub, Postman, Azure, Security Basics<br><br>---<br><br>## 🎯 Goals for 2025<br><br>- ✅ Launch full-stack projects for each major tech stack I study  <br>- 🎮 Release a playable alpha of *The Crimson Cipher*  <br>- 🌐 Build a game studio presence for **Vigilants Studio**  <br>- 📊 Create impactful data dashboards for real-world scenarios  <br>- 🤖 Combine **IoT** with AI/ML for a smart tech prototype<br><br>---<br><br>## 💬 Let’s Connect<br><br>If you love games, tech, data, or futuristic gadgets — hit me up! I'm always looking to learn, collaborate, or just geek out.<br><br>📫 [----]  <br>🔗 (https://www.linkedin.com/in/aminetaji/)  <br>🎮 Coming Soon<br><br>---<br><br>🧩 *"Solve mysteries, build systems, explore the unknown — that's my code."*<br>
+# 🕯️ About Me
 
+Hi. I’m **Taji Amine**.  
+I build systems, worlds, and tools — usually in silence, usually with intent.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmineTaji56&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmineTaji56&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTaji56&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Full-stack developer by training.  
+Indie game developer by obsession.  
+IoT and data when the problem demands it.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmineTaji56&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 What I Do
+
+I work across **code, logic, and narrative**.
+
+Some days that means designing scalable web systems.  
+Other days it means building tension, puzzles, and atmosphere inside a game engine.
+
+I’m drawn to **psychological horror, mystery, investigation**, and systems that reveal themselves slowly.
+
+---
+
+## 🕳️ Current Work
+
+- **MindCage**  
+  A psychological, narrative-driven game built in **Unreal Engine 5**  
+  Isolation, survival, environmental storytelling, and mental pressure  
+  Developed under **Final Signal Studio**
+
+- **Full-Stack Applications**  
+  React + Node.js + SQL Server  
+  Real-world logic, not tutorials
+
+- **IoT Experiments**  
+  Raspberry Pi systems using RFID and low-level GPIO scripting  
+  Physical input meets software decisions
+
+- **Data & Analysis**  
+  Advanced Excel, Power BI, Python, QlikView  
+  Data as a narrative, not just numbers
+
+---
+
+## 🛠️ Tools I Trust
+
+**Web**  
+React · Flutter · HTML/CSS · Material UI · Node.js · Express · REST APIs  
+
+**Game Dev**  
+Unreal Engine 5 · Blueprint · Gameplay systems  
+
+**Data**  
+Python · Pandas · Excel (Advanced) · Power BI · QlikView  
+
+**IoT & Systems**  
+Raspberry Pi · RFID (RC522) · GPIO  
+
+**Other**  
+Git/GitHub · Azure · Postman · Security fundamentals  
+
+---
+
+## 🎯 Direction
+
+- Release complete, polished projects — not demos  
+- Ship a playable version of **MindCage**  
+- Grow **Final Signal Studio** as a narrative-driven indie label  
+- Build systems that feel intentional, grounded, and unsettling  
+
+---
+
+## 📡 Contact
+
+If you’re into **games with atmosphere**, systems with depth, or slow-burn narratives:
+
+🔗 LinkedIn: https://www.linkedin.com/in/aminetaji/  
+📫 Email: `----`  
+🎮 Projects: in development
+
+---
+
+> *The mind is the final room.*
