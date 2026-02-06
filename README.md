@@ -74,7 +74,7 @@ Git/GitHub · Azure · Postman · Security fundamentals
 If you’re into **games with atmosphere**, systems with depth, or slow-burn narratives:
 
 🔗 LinkedIn: https://www.linkedin.com/in/aminetaji/  
-📫 Email: `----`  
+📫 Email: `aminetaji56@gmail.com`  
 🎮 Projects: in development
 
 ---
