@@ -1,82 +1,98 @@
-# 🕯️ About Me
+# Hi, I'm Taji Amine 👋
 
-Hi. I’m **Taji Amine**.  
-I build systems, worlds, and tools — usually in silence, usually with intent.
+### Full-Stack Developer | React · TypeScript · Node.js · .NET
 
-Full-stack developer by training.  
-Indie game developer by obsession.  
-IoT and data when the problem demands it.
+I build web applications, APIs, and business systems with a focus on
+clean architecture, maintainability, and solving real operational problems.
 
----
+Currently expanding my full-stack engineering work around
+**React, TypeScript, Node.js, ASP.NET Core, PostgreSQL, and Docker**.
 
-## 🧩 What I Do
-
-I work across **code, logic, and narrative**.
-
-Some days that means designing scalable web systems.  
-Other days it means building tension, puzzles, and atmosphere inside a game engine.
-
-I’m drawn to **psychological horror, mystery, investigation**, and systems that reveal themselves slowly.
+Alongside software engineering, I develop indie games and technical
+tools under **Final Signal Studio**.
 
 ---
 
-## 🕳️ Current Work
+## 💻 What I Work With
 
-- **MindCage**  
-  A psychological, narrative-driven game built in **Unreal Engine 5**  
-  Isolation, survival, environmental storytelling, and mental pressure  
-  Developed under **Final Signal Studio**
+**Frontend**  
+React · TypeScript · JavaScript · Material UI · HTML · CSS
 
-- **Full-Stack Applications**  
-  React + Node.js + SQL Server  
-  Real-world logic, not tutorials
+**Backend**  
+Node.js · Express · ASP.NET Core · REST APIs
 
-- **IoT Experiments**  
-  Raspberry Pi systems using RFID and low-level GPIO scripting  
-  Physical input meets software decisions
+**Databases**  
+PostgreSQL · SQL Server
 
-- **Data & Analysis**  
-  Advanced Excel, Power BI, Python, QlikView  
-  Data as a narrative, not just numbers
+**Tools & Infrastructure**  
+Git · GitHub · Docker · Postman · Azure
+
+**Additional Experience**  
+Python · Power BI · Raspberry Pi · IoT · Unreal Engine 5
 
 ---
 
-## 🛠️ Tools I Trust
+## 🚀 Featured Work
 
-**Web**  
-React · Flutter · HTML/CSS · Material UI · Node.js · Express · REST APIs  
+### Operations & Workflow Systems
+Business applications designed around real operational workflows,
+approvals, data management, and process automation.
 
-**Game Dev**  
-Unreal Engine 5 · Blueprint · Gameplay systems  
+`React` `REST API` `SQL` `Business Logic`
 
-**Data**  
-Python · Pandas · Excel (Advanced) · Power BI · QlikView  
-
-**IoT & Systems**  
-Raspberry Pi · RFID (RC522) · GPIO  
-
-**Other**  
-Git/GitHub · Azure · Postman · Security fundamentals  
+**Case Study → Coming Soon**
 
 ---
 
-## 🎯 Direction
+### Full-Stack Web Applications
+Modern applications built around separated frontend/backend
+architectures, REST APIs, authentication, and relational databases.
 
-- Release complete, polished projects — not demos  
-- Ship a playable version of **MindCage**  
-- Grow **Final Signal Studio** as a narrative-driven indie label  
-- Build systems that feel intentional, grounded, and unsettling  
+`React` `Node.js` `TypeScript` `PostgreSQL`
 
----
-
-## 📡 Contact
-
-If you’re into **games with atmosphere**, systems with depth, or slow-burn narratives:
-
-🔗 LinkedIn: https://www.linkedin.com/in/aminetaji/  
-📫 Email: `aminetaji56@gmail.com`  
-🎮 Projects: in development
+**Live Demo → Coming Soon**
 
 ---
 
-> *The mind is the final room.*
+### .NET Backend Project
+Production-style REST API demonstrating backend architecture,
+authentication, persistence, testing, and containerization.
+
+`ASP.NET Core` `EF Core` `PostgreSQL` `Docker`
+
+**Case Study → Coming Soon**
+
+---
+
+## 🎮 Beyond Web Development
+
+I'm also an indie game developer and the creator of **MindCage**,
+a psychological narrative game being developed in Unreal Engine 5
+under **Final Signal Studio**.
+
+Game development has given me experience with complex state-driven
+systems, debugging, performance constraints, and designing large
+interconnected systems.
+
+---
+
+## 📚 Currently Improving
+
+- Advanced React & TypeScript
+- Node.js backend architecture
+- ASP.NET Core
+- PostgreSQL
+- Docker & CI/CD
+- Software architecture and testing
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** [linkedin.com/in/aminetaji](https://www.linkedin.com/in/aminetaji/)  
+**Email:** aminetaji56@gmail.com  
+**Portfolio:** Coming Soon
+
+---
+
+> Building software that solves real problems.
