@@ -1,46 +1,91 @@
-# Hi, I'm Amine Taji 👋
+# Hey, I'm Amine 👋
 
-### Full-Stack Developer | PHP · Laravel · React · SQL
+### Full Stack Developer | Problem Solver | Builder
 
-I design and build web applications that solve real operational problems, from business workflows and data management to automation and document processing.
+**PHP · Laravel · React · TypeScript · Python**
 
-My professional experience focuses on **PHP/Laravel, SQL, and business application development**. I also build with **React, TypeScript, Python, and FastAPI** and I'm pursuing engineering studies in AI and Machine Learning.
+I love creating things and figuring out how to solve problems.
 
-Based in Morocco · Interested in full-stack and backend software engineering opportunities.
+Sometimes that means building an application that makes a complicated process easier. Other times, it means experimenting with AI, automating something repetitive, or turning a game idea into something people can play.
 
-## What I build
+What I enjoy most is the process: understanding the challenge, trying ideas, building a solution, and improving it until it feels right.
 
-- **Business applications:** workflow management, role-based features, dashboards, and operational tracking.
-- **Backend systems:** application logic, REST APIs, relational databases, and integrations.
-- **Intelligent automation:** document extraction, data validation, and Python-based processing pipelines.
+I'm a developer based in Morocco, with professional experience building web applications and a growing focus on AI and Machine Learning.
 
-## Selected work
+## What I Build
 
-**ChantiTrack : Construction operations & materials tracking**  
-A multi-site web application for tracking construction activities, materials, and stock movements. Designed around operational dashboards, user roles, and business workflows.
+**Web applications**
 
-**AutoFacture AI : Invoice processing & document validation**  
-A document-processing platform combining Laravel business logic with FastAPI-based OCR processing. Supports reviewing extracted invoice information and identifying anomalies.
+I design and develop applications with frontend interfaces, backend logic, databases, and workflows that address real needs.
 
-*These projects are presented as experience highlights. Their source code is not currently published here.*
+**Automation and AI tools**
 
-## Public projects
+I enjoy finding repetitive or complicated tasks and exploring how software can make them simpler, faster, and more reliable.
 
-- **[Sentiment Analysis Pipeline](https://github.com/AmineTaji56/sentiment-analysis-pipeline)**  Python and scikit-learn NLP pipeline with a Streamlit interface for review sentiment analysis.
-- **[Student AI Usage & Academic Performance](https://github.com/AmineTaji56/Students_AI_Usage_Academic_Performance)**  Data analysis, predictive modeling, and a Streamlit dashboard exploring student AI usage and academic outcomes.
+**Creative projects**
 
-## Tech stack
+I also build games and interactive experiences. They push me to think differently about design, usability, and how people interact with technology.
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, TypeScript, JavaScript, HTML, CSS |
-| Backend | PHP, Laravel, Python, FastAPI, REST APIs |
-| Databases | PostgreSQL, MySQL, SQL Server |
-| Tools | Git, GitHub, Docker, Postman |
+## Technologies I Work With
 
-## Let's connect
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Material UI
 
-- [LinkedIn](https://www.linkedin.com/in/aminetaji/)
-- [Email](mailto:aminetaji56@gmail.com)
+**Backend:** PHP, Laravel, Python, FastAPI, REST APIs
 
-> My focus: useful software, maintainable systems, and real-world problem solving.
+**Databases:** PostgreSQL, MySQL, SQL Server
+
+**Tools:** Git, GitHub, Docker, Postman
+
+I like learning new technologies, but I care more about choosing the right approach for the problem than using a particular framework.
+
+## Projects
+
+### 🏗️ ChantiTrack
+
+**Construction operations and materials management**
+
+A web application built around the needs of construction teams, with features for tracking sites, materials, stock movements, and operational information.
+
+The project involved designing application workflows, interfaces, role based functionality, dashboards, and database structures.
+
+*This is a professional project. Its source code is not publicly available.*
+
+### 📄 AutoFacture AI
+
+**Intelligent invoice processing**
+
+An application exploring how OCR and automation can simplify invoice processing, data extraction, verification, and anomaly tracking.
+
+Built with Laravel and FastAPI, with document processing handled in Python. Project tests achieved over 90% accuracy in document data extraction.
+
+*Project documentation and a public demonstration can be added when available.*
+
+### 🧠 [Sentiment Analysis Pipeline](https://github.com/AmineTaji56/sentiment-analysis-pipeline)
+
+A natural language processing project exploring text classification with Python, scikit learn, and Streamlit.
+
+### 📊 [Students' AI Usage and Academic Performance](https://github.com/AmineTaji56/Students_AI_Usage_Academic_Performance)
+
+A data analysis and machine learning project exploring how students use AI tools and how that relates to academic performance.
+
+## A Little Beyond Code
+
+I enjoy developing games and experimenting with interactive ideas through projects such as **Mindcage**, **Cart Jam**, and **Tidy Little Things**.
+
+Game development gives me another way to practice problem solving, design systems, iterate on feedback, and create experiences that people can enjoy.
+
+## How I Think About Building
+
+**Understand the problem.** Good solutions start with asking the right questions.
+
+**Make something useful.** I prefer a working prototype over an idea that never leaves the notebook.
+
+**Keep improving.** Testing, feedback, and iteration are part of the fun.
+
+**Stay curious.** Every project is a chance to learn something new.
+
+## Let's Connect
+
+I'm interested in full stack development, backend engineering, useful software products, and creative technical challenges.
+
+**[LinkedIn](https://www.linkedin.com/in/aminetaji/)** · **[GitHub](https://github.com/AmineTaji56)** · **[Email](mailto:aminetaji56@gmail.com)**
