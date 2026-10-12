@@ -16,18 +16,18 @@ Based in Morocco · Interested in full-stack and backend software engineering op
 
 ## Selected work
 
-**ChantiTrack — Construction operations & materials tracking**  
+**ChantiTrack : Construction operations & materials tracking**  
 A multi-site web application for tracking construction activities, materials, and stock movements. Designed around operational dashboards, user roles, and business workflows.
 
-**AutoFacture AI — Invoice processing & document validation**  
+**AutoFacture AI : Invoice processing & document validation**  
 A document-processing platform combining Laravel business logic with FastAPI-based OCR processing. Supports reviewing extracted invoice information and identifying anomalies.
 
 *These projects are presented as experience highlights. Their source code is not currently published here.*
 
 ## Public projects
 
-- **[Sentiment Analysis Pipeline](https://github.com/AmineTaji56/sentiment-analysis-pipeline)** — Python and scikit-learn NLP pipeline with a Streamlit interface for review sentiment analysis.
-- **[Student AI Usage & Academic Performance](https://github.com/AmineTaji56/Students_AI_Usage_Academic_Performance)** — Data analysis, predictive modeling, and a Streamlit dashboard exploring student AI usage and academic outcomes.
+- **[Sentiment Analysis Pipeline](https://github.com/AmineTaji56/sentiment-analysis-pipeline)**  Python and scikit-learn NLP pipeline with a Streamlit interface for review sentiment analysis.
+- **[Student AI Usage & Academic Performance](https://github.com/AmineTaji56/Students_AI_Usage_Academic_Performance)**  Data analysis, predictive modeling, and a Streamlit dashboard exploring student AI usage and academic outcomes.
 
 ## Tech stack
 
