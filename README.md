@@ -1,98 +1,46 @@
-# Hi, I'm Taji Amine 👋
+# Hi, I'm Amine Taji 👋
 
-### Full-Stack Developer | React · TypeScript · Node.js · .NET
+### Full-Stack Developer | PHP · Laravel · React · SQL
 
-I build web applications, APIs, and business systems with a focus on
-clean architecture, maintainability, and solving real operational problems.
+I design and build web applications that solve real operational problems, from business workflows and data management to automation and document processing.
 
-Currently expanding my full-stack engineering work around
-**React, TypeScript, Node.js, ASP.NET Core, PostgreSQL, and Docker**.
+My professional experience focuses on **PHP/Laravel, SQL, and business application development**. I also build with **React, TypeScript, Python, and FastAPI** and I'm pursuing engineering studies in AI and Machine Learning.
 
-Alongside software engineering, I develop indie games and technical
-tools under **Final Signal Studio**.
+Based in Morocco · Interested in full-stack and backend software engineering opportunities.
 
----
+## What I build
 
-## 💻 What I Work With
+- **Business applications:** workflow management, role-based features, dashboards, and operational tracking.
+- **Backend systems:** application logic, REST APIs, relational databases, and integrations.
+- **Intelligent automation:** document extraction, data validation, and Python-based processing pipelines.
 
-**Frontend**  
-React · TypeScript · JavaScript · Material UI · HTML · CSS
+## Selected work
 
-**Backend**  
-Node.js · Express · ASP.NET Core · REST APIs
+**ChantiTrack — Construction operations & materials tracking**  
+A multi-site web application for tracking construction activities, materials, and stock movements. Designed around operational dashboards, user roles, and business workflows.
 
-**Databases**  
-PostgreSQL · SQL Server
+**AutoFacture AI — Invoice processing & document validation**  
+A document-processing platform combining Laravel business logic with FastAPI-based OCR processing. Supports reviewing extracted invoice information and identifying anomalies.
 
-**Tools & Infrastructure**  
-Git · GitHub · Docker · Postman · Azure
+*These projects are presented as experience highlights. Their source code is not currently published here.*
 
-**Additional Experience**  
-Python · Power BI · Raspberry Pi · IoT · Unreal Engine 5
+## Public projects
 
----
+- **[Sentiment Analysis Pipeline](https://github.com/AmineTaji56/sentiment-analysis-pipeline)** — Python and scikit-learn NLP pipeline with a Streamlit interface for review sentiment analysis.
+- **[Student AI Usage & Academic Performance](https://github.com/AmineTaji56/Students_AI_Usage_Academic_Performance)** — Data analysis, predictive modeling, and a Streamlit dashboard exploring student AI usage and academic outcomes.
 
-## 🚀 Featured Work
+## Tech stack
 
-### Operations & Workflow Systems
-Business applications designed around real operational workflows,
-approvals, data management, and process automation.
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS |
+| Backend | PHP, Laravel, Python, FastAPI, REST APIs |
+| Databases | PostgreSQL, MySQL, SQL Server |
+| Tools | Git, GitHub, Docker, Postman |
 
-`React` `REST API` `SQL` `Business Logic`
+## Let's connect
 
-**Case Study → Coming Soon**
+- [LinkedIn](https://www.linkedin.com/in/aminetaji/)
+- [Email](mailto:aminetaji56@gmail.com)
 
----
-
-### Full-Stack Web Applications
-Modern applications built around separated frontend/backend
-architectures, REST APIs, authentication, and relational databases.
-
-`React` `Node.js` `TypeScript` `PostgreSQL`
-
-**Live Demo → Coming Soon**
-
----
-
-### .NET Backend Project
-Production-style REST API demonstrating backend architecture,
-authentication, persistence, testing, and containerization.
-
-`ASP.NET Core` `EF Core` `PostgreSQL` `Docker`
-
-**Case Study → Coming Soon**
-
----
-
-## 🎮 Beyond Web Development
-
-I'm also an indie game developer and the creator of **MindCage**,
-a psychological narrative game being developed in Unreal Engine 5
-under **Final Signal Studio**.
-
-Game development has given me experience with complex state-driven
-systems, debugging, performance constraints, and designing large
-interconnected systems.
-
----
-
-## 📚 Currently Improving
-
-- Advanced React & TypeScript
-- Node.js backend architecture
-- ASP.NET Core
-- PostgreSQL
-- Docker & CI/CD
-- Software architecture and testing
-
----
-
-## 📫 Contact
-
-**LinkedIn:** [linkedin.com/in/aminetaji](https://www.linkedin.com/in/aminetaji/)  
-**Email:** aminetaji56@gmail.com  
-**Portfolio:** Coming Soon
-
----
-
-> Building software that solves real problems.
+> My focus: useful software, maintainable systems, and real-world problem solving.
